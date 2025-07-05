@@ -1,14 +1,6 @@
 ## ChurnPredictor-ANN
-Customer Churn Prediction using Artificial Neural Networks (ANN) involves building a model to forecast whether a customer is likely to leave or continue using a service. The ANN learns from historical data, considering factors like usage patterns, customer interactions, and feedback to make predictions.
-ChurnPredictor-ANN/
-│
-├── dataset/
-│   └── Churn_Modelling.csv        # Dataset file
-│
-├── churn_prediction_ann.ipynb     # Jupyter Notebook (recommended)
-├── churn_prediction_ann.py        # Python script (optional)
-├── README.md                      # Project description
-└── requirements.txt               # Required libraries
+Customer Churn Prediction using Artificial Neural Networks (ANN) involves building a model to forecast whether a customer is likely to leave or continue using a service.
+
 # Churn Prediction using Artificial Neural Network (ANN)
 
 This project uses an Artificial Neural Network (ANN) built with TensorFlow and Keras to predict customer churn based on customer demographic and account information.
